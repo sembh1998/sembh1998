@@ -9,7 +9,7 @@
     <img width="400" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sembh1998&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/sembh1998/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sembh1998&layout=compact&langs_count=7&theme=dark&exclude_repo=netflix_web_github_page&hide=html,dart,jupyter" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sembh1998&layout=compact&langs_count=7&theme=dark&exclude_repo=netflix_web_github_page&hide=html,dart,jupyter%20notebook" />
   </a>
 </div>
 
