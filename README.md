@@ -1,19 +1,26 @@
-- 👋 Hi, I’m @sembh1998
-- 👀 I’m interested in work as a backend developer
-- 🌱 I’m currently learning golang and apollographql
-- 💞️ I’m looking to collaborate on a project that can help people, some open source project
-- 📫 How to reach me: soon I will create a profile in linkedin
+<h2 align="center"> Hi, I'm Sem Benavente 👋</h2>
+
+<p align="center">
+  <a href="https://twitter.com/sembh1998"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%40sembh1998-blue?style=flat-square&logo=twitter"></a>
+  <a href="https://www.linkedin.com/in/sem-benavente/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sem%20Benavente-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/sembh1998"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-sembh1998-blue?style=flat-square&logo=github"></a>
+</p>
+
+<h3 align="center">About Me</h3>
+
+<p align="center">
+  Hi there! I'm Sem Benavente, a backend developer with experience in Go. I have knowledge in SQL with MySql, Postgres, and Oracle, experience with Google Cloud Platform, AWS and Oracle Cloud in VMs management, and good knowledge of Kubernetes, Redis, Mongo, Neo4j, Kafka, and Docker. I'm also an avid Linux user and have experience leading teams and implementing best practices.
+</p>
+
+<h3 align="center">My GitHub Stats</h3>
 
 <div align="center">
-  <a href="https://github.com/sembh1998/github-readme-stats">
-    <img width="400" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sembh1998&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/sembh1998/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sembh1998&layout=compact&langs_count=7&theme=dark&exclude_repo=netflix_web_github_page&hide=html,dart,jupyter%20notebook" />
-  </a>
+  <img width="400" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sembh1998&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sembh1998&layout=compact&langs_count=7&theme=dark&exclude_repo=netflix_web_github_page&hide=html,dart,jupyter%20notebook" />
 </div>
 
-<!---
-sembh1998/sembh1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">Get in Touch</h3>
+
+<p align="center">
+  💬 Feel free to reach out to me through the links above, or visit my <a href="https://www.linkedin.com/in/sem-benavente/">LinkedIn profile</a> to learn more about my experience.
+</p>
